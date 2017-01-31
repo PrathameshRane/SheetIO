@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SheetIO</string>
+    <string name="enter_data_to_sheet">Enter Data To Sheet</string>
+</resources>
